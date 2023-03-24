@@ -2,6 +2,8 @@
 
 Projeto feito em aula do curso [B7Web](https://b7web.com.br).
 
+Acesse: [Jogo da Memoria](https://react-jogo-memoria-five.vercel.app/).
+
 ## Scripts
 
 In the project directory, you can run:
